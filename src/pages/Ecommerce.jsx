@@ -98,10 +98,13 @@ color="blue"
 </SparkLine>
 </div>
 
-
-
-
+<div className= "mt-10" >
+<Button color="white" bgColor="blue" text="Download Report" borderRadius="10px" size="lg" />
 </div>
+</div>
+
+
+
 </div>
 </div>
 </div>
